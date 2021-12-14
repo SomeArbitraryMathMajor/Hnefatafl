@@ -1,2 +1,2 @@
 # Hnefatafl
-Norse Chess in Java, high school project
+high school project; coded Norse chess using Java applets on Eclipse.
